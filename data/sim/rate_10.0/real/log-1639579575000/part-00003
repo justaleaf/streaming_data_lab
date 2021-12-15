@@ -1,0 +1,2 @@
+('PullRequestEvent', 'pull[bot]')
+('PushEvent', 'github-actions[bot]')

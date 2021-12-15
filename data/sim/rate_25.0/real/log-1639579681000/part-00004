@@ -1,0 +1,5 @@
+('DeleteEvent', 'dotnet-maestro[bot]')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'yannics')
+('PushEvent', 'inmantaci')
+('PushEvent', 'hickeykevin')

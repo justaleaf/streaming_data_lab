@@ -1,0 +1,8 @@
+('PushEvent', 'kaiyangzheng')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'github-actions[bot]')
+('IssueCommentEvent', 'brettmortensen')
+('WatchEvent', 'lucasmelin')
+('PushEvent', 'LombiqBot')
+('PullRequestEvent', 'pyup-bot')

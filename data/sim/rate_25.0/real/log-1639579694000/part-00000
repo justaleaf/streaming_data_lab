@@ -1,0 +1,5 @@
+('PushEvent', 'renovate-bot')
+('PushEvent', 'ayuchih')
+('CreateEvent', 'marcelohama')
+('CreateEvent', 'calvintennant')
+('PullRequestEvent', 'robinpaulson')

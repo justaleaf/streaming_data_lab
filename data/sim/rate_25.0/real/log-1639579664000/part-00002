@@ -1,0 +1,5 @@
+('CreateEvent', 'PeterRibs')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'pull[bot]')
+('ReleaseEvent', 'github-actions[bot]')
+('PullRequestEvent', 'scala-steward')

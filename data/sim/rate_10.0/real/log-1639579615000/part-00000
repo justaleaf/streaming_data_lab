@@ -1,0 +1,2 @@
+('ReleaseEvent', 'github-actions[bot]')
+('PullRequestEvent', 'scala-steward')

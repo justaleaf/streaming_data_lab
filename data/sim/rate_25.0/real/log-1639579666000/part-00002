@@ -1,0 +1,5 @@
+('PushEvent', 'tabuna')
+('CommitCommentEvent', 'cypress-bot[bot]')
+('CreateEvent', 'avsayapin')
+('PushEvent', 'renovate-bot')
+('PullRequestEvent', 'dlcoffee')

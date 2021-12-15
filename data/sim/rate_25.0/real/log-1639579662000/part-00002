@@ -1,0 +1,5 @@
+('PushEvent', 'MrGorun')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'Marijana-Papic')
+('IssueCommentEvent', 'openshift-ci[bot]')
+('PushEvent', 'Optiligence')

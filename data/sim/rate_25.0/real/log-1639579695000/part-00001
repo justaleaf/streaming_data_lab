@@ -1,0 +1,4 @@
+('PushEvent', 'renovate-bot')
+('PullRequestEvent', 'lukelbd')
+('PushEvent', 'ultimate-hosts-blacklist-bot')
+('PushEvent', 'predictcrypto')

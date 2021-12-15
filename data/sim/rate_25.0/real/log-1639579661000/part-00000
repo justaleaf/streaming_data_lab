@@ -1,0 +1,5 @@
+('IssuesEvent', 'stridespace-com[bot]')
+('PushEvent', 'github-actions[bot]')
+('PullRequestEvent', 'PacoV3')
+('CreateEvent', 'renovate-bot')
+('PushEvent', 'github-actions[bot]')

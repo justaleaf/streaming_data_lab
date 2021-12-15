@@ -1,0 +1,5 @@
+('IssueCommentEvent', 'USMP-lancer')
+('PushEvent', 'renovate-bot')
+('PullRequestReviewEvent', 'brminnick')
+('PushEvent', 'antalszava')
+('PushEvent', 'feragap')

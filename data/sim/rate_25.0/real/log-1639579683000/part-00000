@@ -1,0 +1,5 @@
+('PullRequestReviewEvent', 'jackiedallas')
+('DeleteEvent', 'balena-ci')
+('PushEvent', '0xDanielLopez')
+('IssueCommentEvent', 'sonarcloud[bot]')
+('PushEvent', 'LombiqBot')

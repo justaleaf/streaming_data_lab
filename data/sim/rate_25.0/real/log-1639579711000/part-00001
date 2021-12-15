@@ -1,0 +1,5 @@
+('PullRequestEvent', 'joanna-foss')
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'github-actions[bot]')
+('PullRequestReviewCommentEvent', 'miguelpeixe')
+('PushEvent', 'juansouza09')

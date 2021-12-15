@@ -1,0 +1,5 @@
+('CreateEvent', 'codestar-github-bot-1')
+('PushEvent', 'yuki-kimoto')
+('PushEvent', 'diogo-dpa')
+('PushEvent', 'dougwilson')
+('ReleaseEvent', 'conda-forge-curator[bot]')

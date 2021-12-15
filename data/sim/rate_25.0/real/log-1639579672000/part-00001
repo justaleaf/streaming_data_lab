@@ -1,0 +1,5 @@
+('PullRequestEvent', 'dependabot[bot]')
+('WatchEvent', 'coryjo')
+('PushEvent', 'dkzippa')
+('ReleaseEvent', 'github-actions[bot]')
+('DeleteEvent', 'VictorRaul22')

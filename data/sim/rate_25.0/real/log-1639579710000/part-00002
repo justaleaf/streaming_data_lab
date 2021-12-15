@@ -1,0 +1,5 @@
+('PullRequestEvent', 'renovate[bot]')
+('PushEvent', 'breves-r')
+('MemberEvent', 'iccmr-quantum')
+('CreateEvent', 'kelseykodes')
+('IssueCommentEvent', 'Ryan-Qiyu-Jiang')

@@ -1,0 +1,4 @@
+('PushEvent', 'github-actions[bot]')
+('PushEvent', 'asfgit')
+('PushEvent', 'LombiqBot')
+('IssuesEvent', 'DiscoverSquishy')

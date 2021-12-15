@@ -1,0 +1,5 @@
+('IssueCommentEvent', 'liferay-continuous-integration')
+('PushEvent', 'hanniben')
+('DeleteEvent', 'luisan00')
+('CreateEvent', 'ebrahimpaki')
+('PushEvent', 'github-actions[bot]')

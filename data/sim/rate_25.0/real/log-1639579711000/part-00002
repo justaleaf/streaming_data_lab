@@ -1,0 +1,5 @@
+('IssueCommentEvent', 'merge-fee-bot[bot]')
+('DeleteEvent', 'aws-connector-for-github[bot]')
+('PushEvent', 'denisesmelich')
+('PushEvent', 'fsdfdsgf2')
+('PushEvent', 'DiscoverSquishy')

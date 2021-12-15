@@ -1,0 +1,5 @@
+('PushEvent', 'Chkoz')
+('DeleteEvent', 'feragap')
+('PushEvent', 'github-actions[bot]')
+('IssueCommentEvent', 'chrmarti')
+('PullRequestEvent', 'Toxsty')

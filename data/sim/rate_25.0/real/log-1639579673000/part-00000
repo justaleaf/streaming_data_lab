@@ -1,0 +1,5 @@
+('PushEvent', 'weihuang-jedi')
+('PullRequestEvent', 'nicolevasilevsky')
+('IssueCommentEvent', 'ar3s3ru')
+('PushEvent', 'github-actions[bot]')
+('DeleteEvent', 'github-actions[bot]')
